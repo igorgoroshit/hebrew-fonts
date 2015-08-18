@@ -1,0 +1,22 @@
+{
+  "name": "hebrew-fonts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/igorgoroshit/hebrew-fonts",
+  "authors": [
+    "Igor Goroshit <igor@webt.co.il>"
+  ],
+  "description": "Hebrew Fonts",
+  "main": "opensans/stylesheet.css",
+  "keywords": [
+    "heberw",
+    "fonts"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
